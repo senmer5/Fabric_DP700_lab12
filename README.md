@@ -1,5 +1,3 @@
-# Fabric_DP700_lab12
-
 # 🚴‍♀️ Real-Time Data Analysis with Microsoft Fabric Eventhouse
 
 ## 🎯 Project Purpose
